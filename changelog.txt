@@ -1,0 +1,5 @@
+### Version
+
+0.0.3 (2023-03-05)
+------------------
+- Flare Utilities with HTML reporting.
